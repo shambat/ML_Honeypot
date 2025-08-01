@@ -105,7 +105,7 @@ by the trained machine learning model (`classifier.pkl`).
 
 **Muhammad Ehtisham**  
 Cybersecurity Enthusiast | SOC Analyst | AI Threat Detection Researcher  
-📧 CONNECTSHAM95@gmail.com
+ ehtisham.space
 
 ---
 
