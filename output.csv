@@ -1,0 +1,629 @@
+10.0.0.5,192.168.1.10,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.10,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.10,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.200,ICMP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.10,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.100,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+172.16.0.3,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Benign
+172.16.0.3,192.168.1.200,UDP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+10.0.0.5,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.100,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.10,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.10,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.10,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.10,ICMP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.10,UDP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.200,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.100,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.10,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.50,UDP,ET SCAN ICMP Echo Detected,Benign
+172.16.0.3,192.168.1.50,ICMP,ET POLICY Suspicious DNS Query,Benign
+172.16.0.3,192.168.1.10,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.200,UDP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.100,UDP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.10,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.200,UDP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.10,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.200,TCP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.200,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET POLICY Suspicious DNS Query,Benign
+172.16.0.3,192.168.1.10,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Benign
+10.0.0.5,192.168.1.100,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.200,ICMP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.100,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.200,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.100,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.200,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+172.16.0.3,192.168.1.100,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.15,192.168.1.200,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,TCP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.10,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.200,ICMP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.50,TCP,ET MALWARE Possible Malicious Traffic,Benign
+172.16.0.3,192.168.1.200,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+192.168.1.15,192.168.1.50,UDP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.100,UDP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+10.0.0.5,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.10,ICMP,ET SCAN ICMP Echo Detected,Benign
+192.168.1.15,192.168.1.10,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.10,ICMP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.200,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+192.168.1.10,192.168.1.100,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.10,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.200,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.100,UDP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.10,192.168.1.200,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.100,TCP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.100,ICMP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.200,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.10,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.10,ICMP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+192.168.1.15,192.168.1.100,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET MALWARE Possible Malicious Traffic,Benign
+172.16.0.3,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Benign
+172.16.0.3,192.168.1.200,ICMP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.10,192.168.1.100,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.50,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.10,192.168.1.200,ICMP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.100,TCP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.10,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.50,ICMP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.15,192.168.1.200,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.10,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.10,ICMP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.10,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.100,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.10,192.168.1.200,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.200,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+172.16.0.3,192.168.1.50,ICMP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.15,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.10,192.168.1.100,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+10.0.0.5,192.168.1.10,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+10.0.0.5,192.168.1.50,UDP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.10,192.168.1.200,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.10,192.168.1.10,ICMP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.100,ICMP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.50,ICMP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.10,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.200,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.10,192.168.1.100,ICMP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.200,ICMP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.15,192.168.1.10,ICMP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.200,TCP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.100,UDP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.100,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.100,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.100,TCP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.100,ICMP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.100,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET SCAN ICMP Echo Detected,Benign
+10.0.0.5,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.10,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.10,UDP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.100,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.100,TCP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.10,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.50,UDP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.200,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.10,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.10,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.10,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.200,ICMP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.10,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.100,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+172.16.0.3,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Benign
+172.16.0.3,192.168.1.200,UDP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+10.0.0.5,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.100,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.10,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.10,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.10,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.10,ICMP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.10,UDP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.200,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.100,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.10,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.50,UDP,ET SCAN ICMP Echo Detected,Benign
+172.16.0.3,192.168.1.50,ICMP,ET POLICY Suspicious DNS Query,Benign
+172.16.0.3,192.168.1.10,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.200,UDP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.100,UDP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.10,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.200,UDP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.10,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.200,TCP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.200,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET POLICY Suspicious DNS Query,Benign
+172.16.0.3,192.168.1.10,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Benign
+10.0.0.5,192.168.1.100,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.200,ICMP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.100,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.200,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.100,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.200,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+172.16.0.3,192.168.1.100,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.15,192.168.1.200,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,TCP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.10,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.200,ICMP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.50,TCP,ET MALWARE Possible Malicious Traffic,Benign
+172.16.0.3,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Benign
+10.0.0.5,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+172.16.0.3,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+192.168.1.10,192.168.1.100,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.200,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.200,UDP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.100,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.10,UDP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.200,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.10,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+172.16.0.3,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+172.16.0.3,192.168.1.10,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.100,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+172.16.0.3,192.168.1.200,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+192.168.1.15,192.168.1.50,UDP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.100,UDP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+10.0.0.5,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.10,ICMP,ET SCAN ICMP Echo Detected,Benign
+192.168.1.15,192.168.1.10,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.10,ICMP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.200,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+192.168.1.10,192.168.1.100,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.10,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.200,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.100,UDP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.10,192.168.1.200,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.100,TCP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.100,ICMP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.200,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.10,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.10,ICMP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+192.168.1.15,192.168.1.100,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET MALWARE Possible Malicious Traffic,Benign
+172.16.0.3,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Benign
+172.16.0.3,192.168.1.200,ICMP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.10,192.168.1.100,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.50,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.10,192.168.1.200,ICMP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.100,TCP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.10,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.50,ICMP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.15,192.168.1.200,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.10,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.10,ICMP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.10,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.100,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.10,192.168.1.200,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.200,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+172.16.0.3,192.168.1.50,ICMP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.15,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.10,192.168.1.100,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+10.0.0.5,192.168.1.10,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+10.0.0.5,192.168.1.50,UDP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.10,192.168.1.200,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.10,192.168.1.10,ICMP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.100,ICMP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.50,ICMP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.10,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.200,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.10,192.168.1.100,ICMP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.200,ICMP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.15,192.168.1.10,ICMP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.200,TCP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.100,UDP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.100,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.100,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.100,TCP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.100,ICMP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.100,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET SCAN ICMP Echo Detected,Benign
+10.0.0.5,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.10,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.10,UDP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.100,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.100,TCP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.10,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.50,UDP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.200,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.10,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.10,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.10,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.200,ICMP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.10,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.100,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+172.16.0.3,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Benign
+172.16.0.3,192.168.1.200,UDP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+10.0.0.5,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.100,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.10,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.10,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.10,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.10,ICMP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.10,UDP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.200,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.100,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.10,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.50,UDP,ET SCAN ICMP Echo Detected,Benign
+172.16.0.3,192.168.1.50,ICMP,ET POLICY Suspicious DNS Query,Benign
+172.16.0.3,192.168.1.10,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.200,UDP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.100,UDP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.10,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.200,UDP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.10,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.200,TCP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.200,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET POLICY Suspicious DNS Query,Benign
+172.16.0.3,192.168.1.10,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Benign
+10.0.0.5,192.168.1.100,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.200,ICMP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.100,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.200,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.100,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.200,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+172.16.0.3,192.168.1.100,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.15,192.168.1.200,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,TCP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.10,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.200,ICMP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.50,TCP,ET MALWARE Possible Malicious Traffic,Benign
+172.16.0.3,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Benign
+10.0.0.5,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+172.16.0.3,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+192.168.1.10,192.168.1.100,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.200,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.200,UDP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.100,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.10,UDP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.200,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.10,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+172.16.0.3,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+172.16.0.3,192.168.1.10,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.100,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.200,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.200,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.100,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.50,TCP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.200,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.200,UDP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.50,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+10.0.0.5,192.168.1.10,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.100,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.50,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.10,192.168.1.50,UDP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.50,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.200,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.200,ICMP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.100,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.100,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.10,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.50,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,ICMP,ET MALWARE Possible Malicious Traffic,Benign
+10.0.0.5,192.168.1.10,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.200,UDP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.100,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.100,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.200,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.10,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.10,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.10,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.200,UDP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.10,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.100,TCP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.200,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+172.16.0.3,192.168.1.100,ICMP,ET SCAN ICMP Echo Detected,Benign
+192.168.1.10,192.168.1.50,UDP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.10,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.10,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.10,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.100,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.100,TCP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.200,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+192.168.1.15,192.168.1.50,UDP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.100,UDP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+10.0.0.5,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.10,ICMP,ET SCAN ICMP Echo Detected,Benign
+192.168.1.15,192.168.1.10,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.10,ICMP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.200,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+192.168.1.10,192.168.1.100,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.10,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.200,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.100,UDP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.10,192.168.1.200,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.100,TCP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.100,ICMP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.200,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.10,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.10,ICMP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+192.168.1.15,192.168.1.100,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET MALWARE Possible Malicious Traffic,Benign
+172.16.0.3,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Benign
+172.16.0.3,192.168.1.200,ICMP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.10,192.168.1.100,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.50,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.10,192.168.1.200,ICMP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.100,TCP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.10,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.50,ICMP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.15,192.168.1.200,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.10,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.10,ICMP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.10,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.100,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.10,192.168.1.200,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.200,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+172.16.0.3,192.168.1.50,ICMP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.15,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.10,192.168.1.100,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+10.0.0.5,192.168.1.10,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+10.0.0.5,192.168.1.50,UDP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.10,192.168.1.200,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.10,192.168.1.10,ICMP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.100,ICMP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.50,ICMP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.10,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.200,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.10,192.168.1.100,ICMP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.200,ICMP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.15,192.168.1.10,ICMP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.200,TCP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.100,UDP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.100,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.100,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.100,TCP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.100,ICMP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.100,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET SCAN ICMP Echo Detected,Benign
+10.0.0.5,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.10,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.10,UDP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.100,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.100,TCP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.10,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.50,UDP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.200,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.10,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.10,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.10,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.200,ICMP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.10,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.100,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+172.16.0.3,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Benign
+172.16.0.3,192.168.1.200,UDP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+10.0.0.5,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.100,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.10,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.10,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.10,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.10,ICMP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.10,UDP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.200,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.100,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.10,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.50,UDP,ET SCAN ICMP Echo Detected,Benign
+172.16.0.3,192.168.1.50,ICMP,ET POLICY Suspicious DNS Query,Benign
+172.16.0.3,192.168.1.10,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.200,UDP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.100,UDP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.10,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.200,UDP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.10,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.200,TCP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.200,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET POLICY Suspicious DNS Query,Benign
+172.16.0.3,192.168.1.10,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Benign
+10.0.0.5,192.168.1.100,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.200,ICMP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.100,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.200,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.100,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.200,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+172.16.0.3,192.168.1.100,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.15,192.168.1.200,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,TCP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.10,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.200,ICMP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.50,TCP,ET MALWARE Possible Malicious Traffic,Benign
+172.16.0.3,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Benign
+10.0.0.5,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+172.16.0.3,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+192.168.1.10,192.168.1.100,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.200,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.200,UDP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.100,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.10,UDP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.200,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.10,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+172.16.0.3,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+172.16.0.3,192.168.1.10,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.100,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.200,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.200,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.100,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.50,TCP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.200,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.200,UDP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.50,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+10.0.0.5,192.168.1.10,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.100,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.15,192.168.1.50,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET MALWARE Possible Malicious Traffic,Benign
+192.168.1.10,192.168.1.50,UDP,ET SCAN ICMP Echo Detected,Malicious
+172.16.0.3,192.168.1.10,TCP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.50,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.200,UDP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.15,192.168.1.200,ICMP,ET SCAN ICMP Echo Detected,Malicious
+192.168.1.10,192.168.1.100,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.100,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.100,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.10,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.50,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,ICMP,ET MALWARE Possible Malicious Traffic,Benign
+10.0.0.5,192.168.1.10,UDP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.200,UDP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.100,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.100,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.200,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.10,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.10,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.10,UDP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.200,UDP,ET POLICY Suspicious DNS Query,Malicious
+172.16.0.3,192.168.1.10,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+172.16.0.3,192.168.1.100,TCP,ET POLICY Suspicious DNS Query,Malicious
+10.0.0.5,192.168.1.200,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+172.16.0.3,192.168.1.100,ICMP,ET SCAN ICMP Echo Detected,Benign
+192.168.1.10,192.168.1.50,UDP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.10,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.10,UDP,ET MALWARE Possible Malicious Traffic,Malicious
+10.0.0.5,192.168.1.50,TCP,ET POLICY Suspicious DNS Query,Benign
+192.168.1.10,192.168.1.10,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.15,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+10.0.0.5,192.168.1.100,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.15,192.168.1.100,TCP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.100,ICMP,ET SCAN ICMP Echo Detected,Benign
+10.0.0.5,192.168.1.100,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.10,192.168.1.200,UDP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.50,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,Benign
+192.168.1.10,192.168.1.100,TCP,ET SCAN ICMP Echo Detected,Malicious
+10.0.0.5,192.168.1.10,ICMP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.200,TCP,ET POLICY Suspicious DNS Query,Malicious
+192.168.1.10,192.168.1.50,TCP,ET MALWARE Possible Malicious Traffic,Malicious
+192.168.1.10,192.168.1.50,ICMP,ET SCAN Suspicious Inbound to MSSQL port 1433,Malicious
+192.168.1.10,192.168.1.200,UDP,ET MALWARE Possible Malicious Traffic,Malicious

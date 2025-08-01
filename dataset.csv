@@ -1,0 +1,5 @@
+src_ip,dest_ip,protocol,signature,label
+192.168.1.10,192.168.1.100,TCP,ET MALWARE Possible Malicious Traffic,1
+10.0.0.5,192.168.1.200,UDP,ET POLICY Suspicious DNS Query,0
+192.168.1.15,192.168.1.10,TCP,ET SCAN Suspicious Inbound to MSSQL port 1433,1
+172.16.0.3,192.168.1.50,ICMP,ET SCAN ICMP Echo Detected,0

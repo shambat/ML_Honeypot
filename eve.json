@@ -1,0 +1,1065 @@
+{"timestamp": "2025-08-01T11:12:10.331353Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T11:12:12.351980Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T11:12:14.354174Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T11:12:19.377666Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T11:12:22.386086Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T11:12:24.391990Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T11:12:27.401227Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T11:12:28.418214Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T11:12:32.419450Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T11:12:33.433858Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T11:12:34.450434Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T11:12:39.455505Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T11:12:44.465805Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T11:12:49.481516Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T11:12:51.494135Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T11:12:55.516636Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T11:12:57.518592Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T11:13:02.584923Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T11:13:07.667639Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T11:15:17.154246Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T11:15:22.194274Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T11:15:23.463285Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T11:15:24.871523Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T11:15:26.981401Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T11:15:29.026095Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T11:15:30.053275Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T11:15:33.155141Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T11:15:37.197265Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T11:15:41.420460Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T11:15:43.421424Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T11:15:48.445514Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T11:15:51.530821Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T11:15:56.533038Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T11:15:59.543115Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T11:16:00.576212Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T11:16:04.588715Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T11:16:07.590352Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T11:16:12.599544Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T11:16:14.607292Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T11:16:18.625590Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T11:16:23.707007Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T11:16:27.917976Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:20:45.598731Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:20:49.625402Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:20:52.975735Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:20:54.497144Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:20:59.197146Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:21:01.717106Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:21:05.844678Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:21:10.893794Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:21:11.933794Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:21:13.983560Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:21:17.015939Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:21:20.029385Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:21:22.036095Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:21:23.049233Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:21:24.096794Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:21:27.108793Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:21:32.109850Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:21:37.127366Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:21:39.143021Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:21:43.143997Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:21:46.144210Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:21:51.145141Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:21:53.145526Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:21:58.147598Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:22:03.173153Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:22:08.068476Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:22:12.201752Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:22:13.218617Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:22:14.225941Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:22:15.235838Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:22:20.245011Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:22:25.255787Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:22:26.378304Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:22:28.691462Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:22:30.708816Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:22:31.726160Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:22:33.735735Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:22:35.742526Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:22:36.804635Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:22:41.010722Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:22:45.018240Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:22:47.024100Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:22:51.034250Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:22:53.040246Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:22:55.044791Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:22:56.046053Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:22:58.061371Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:22:59.063301Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:23:04.076499Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:23:06.092886Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:23:10.101982Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:23:12.124540Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:23:16.140544Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:23:19.156121Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:23:24.171610Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:23:25.174107Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:23:28.175177Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:23:29.184630Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:23:32.199577Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:23:34.210286Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:23:39.219288Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:23:43.225510Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:23:45.235212Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:23:48.245056Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:23:51.249108Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:23:54.252820Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:23:59.266172Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:24:00.281634Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:24:03.297760Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:24:04.303876Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:24:08.315781Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:24:09.333980Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:24:14.344706Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:24:17.351725Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:24:18.363455Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:24:19.379303Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:24:24.396408Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:24:27.413135Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:24:29.428664Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:24:30.435951Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:24:32.441134Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:24:36.456327Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:24:41.473393Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:24:45.490459Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:24:49.500427Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:24:54.519481Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:24:57.527601Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:24:58.531697Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:25:00.550765Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:25:05.563808Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:25:07.579025Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:25:12.594105Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:25:15.600411Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:25:19.620954Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:25:23.649523Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:25:26.655121Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:25:31.657741Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:25:35.665294Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:25:38.679636Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:25:41.680130Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:25:44.696302Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:25:49.709818Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:25:53.724183Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:25:56.734885Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:26:01.749651Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:26:04.758872Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:26:06.774979Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:26:09.792391Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:26:11.805400Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:26:12.826187Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:26:14.843390Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:26:17.845503Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:26:21.856877Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:26:23.871110Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:26:24.874265Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:26:27.886627Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:26:31.903342Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:26:32.908049Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:26:36.959078Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:26:41.985561Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:26:44.002571Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:26:49.014160Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:26:53.017175Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:26:55.018269Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:26:58.034082Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:26:59.043245Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:27:04.050062Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:27:07.061386Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:27:11.064821Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:27:15.079147Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:27:18.147394Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:27:22.391847Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:27:27.405753Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:27:28.411675Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:27:33.417663Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:27:38.426998Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:27:42.437725Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:27:47.453668Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:27:49.463859Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:27:50.472457Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:27:55.490479Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:27:56.506066Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:27:58.523776Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:27:59.527306Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:28:03.546206Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:28:07.569918Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:28:11.571636Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:28:15.573308Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:28:20.587099Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:28:24.587112Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:28:25.595858Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:28:26.597844Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:28:27.608564Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:28:31.614459Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:28:36.627057Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:28:41.630896Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:28:42.632894Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:28:47.647412Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:28:48.659098Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:28:52.669105Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:28:57.683703Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:28:59.696666Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:29:01.698923Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:29:02.700558Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:29:03.713893Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:29:07.714904Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:29:08.715360Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:29:11.727042Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:29:14.731169Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:29:19.737712Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:29:23.746740Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:29:26.747970Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:29:27.748514Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:29:30.756443Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:29:35.769077Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:29:39.787387Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:29:43.902637Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:29:44.939371Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:29:49.191223Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:29:50.270664Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:29:51.273580Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:29:52.284335Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:29:57.287637Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:29:58.291885Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:30:03.298530Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:30:04.303542Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:30:05.315467Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:30:06.328067Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:30:07.333180Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:30:08.344166Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:30:13.351047Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:30:15.367736Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:30:20.376403Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:30:23.398999Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:30:26.408387Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:30:30.423956Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:30:33.443546Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:30:37.449914Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:30:40.453265Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:30:44.465416Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:30:49.471664Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:30:54.486945Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:30:55.495543Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:30:58.510910Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:31:00.515069Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:31:05.523888Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:31:09.529235Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:31:14.551847Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:31:19.598251Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:31:24.611593Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:31:25.620010Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:31:27.628373Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:31:32.641386Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:31:37.654630Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:31:38.656653Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:31:40.662509Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:31:43.678864Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:31:45.691077Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:31:50.708436Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:31:51.716410Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:31:55.722242Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:31:56.736041Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:31:58.751971Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:32:03.758912Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:32:04.768624Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:32:05.771696Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:32:08.799813Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:32:10.818172Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:32:13.819857Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:32:16.830151Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:32:18.832095Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:32:21.844542Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:32:25.858477Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:32:27.859390Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:32:28.864442Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:32:29.881096Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:32:33.886336Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:32:34.902174Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:32:38.903456Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:32:42.909147Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:32:46.917101Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:32:51.918414Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:32:56.926001Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:32:58.929810Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:33:00.931941Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:33:02.945403Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:33:05.956354Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:33:07.960375Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:33:12.975335Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:33:14.987521Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:33:16.989621Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:33:20.999348Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:33:25.004844Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:33:26.019529Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:33:31.026458Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:33:32.038031Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:33:37.041984Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:33:40.049013Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:33:43.055542Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:33:46.069223Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:33:49.070289Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:33:53.086066Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:33:54.127464Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:33:58.296959Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:34:03.303229Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:34:05.319924Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:34:07.335364Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:34:08.341219Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:34:13.347166Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:34:14.362347Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:34:15.377383Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:34:19.381128Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:34:24.384379Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:34:29.400967Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:34:31.417768Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:34:36.420457Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:34:38.423285Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:34:39.428985Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:34:41.439945Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:34:43.442605Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:34:44.460092Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:34:48.465502Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:34:50.479222Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:34:53.485271Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:34:55.497196Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:34:56.512332Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:34:58.515650Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:35:01.527412Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:35:06.537263Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:35:10.552056Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:35:14.560416Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:35:18.573531Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:35:20.582853Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:35:24.590278Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:35:29.597412Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:35:30.608322Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:35:33.616777Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:35:38.619826Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:35:42.636879Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:35:46.650618Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:35:47.653598Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:35:50.659182Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:35:54.664102Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:35:59.681249Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:36:03.688916Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:36:08.700751Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:36:10.711685Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:36:12.716889Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:36:16.732254Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:36:19.737257Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:36:24.740219Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:36:26.750005Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:36:31.764460Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:36:36.767547Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:36:41.771626Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:36:45.788473Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:36:49.793528Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:36:53.800230Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:36:56.811808Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:37:00.826065Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:37:04.831688Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:37:05.843998Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:37:08.857848Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:37:10.860112Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:37:14.871496Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:37:19.877501Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:37:23.880538Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:37:28.887522Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:37:29.905913Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:37:31.920551Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:37:33.937558Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:37:38.949666Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:37:40.963668Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:37:43.973444Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:37:44.986039Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:37:49.992126Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:37:53.004853Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:37:54.012380Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:37:57.016968Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:37:58.027551Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:38:00.035057Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:38:03.046372Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:38:04.065770Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:38:08.106232Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:38:09.165058Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:38:14.175218Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:38:16.181918Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:38:18.187372Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:38:22.200355Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:38:26.211421Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:38:29.225925Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:38:34.242076Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:38:39.255333Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:38:41.271182Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:38:43.282738Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:38:45.297986Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:38:46.307489Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:38:48.313200Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:38:51.319551Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:38:56.329532Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:39:00.338064Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:39:02.345542Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:39:07.359594Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:39:11.380005Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:39:15.453297Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:39:17.467492Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:39:19.472518Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:39:23.478131Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:39:25.483891Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:39:26.492525Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:39:28.507150Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:39:31.512659Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:39:34.527304Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:39:39.541396Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:39:42.553372Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:39:46.563916Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:39:48.572302Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:39:52.584130Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:39:55.597017Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:40:00.610145Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:40:05.613906Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:40:07.619370Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:40:08.638084Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:40:10.649112Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:40:13.656333Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:40:16.661889Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:40:20.674892Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:40:24.682930Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:40:25.691277Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:40:27.699584Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:40:28.701763Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:40:32.705873Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:40:37.721779Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:40:38.736108Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:40:43.755455Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:40:45.775284Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:40:47.789636Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:40:52.801597Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:40:53.809879Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:40:58.819423Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:41:01.823546Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:41:02.837463Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:41:05.844609Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:41:10.860096Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:41:14.869988Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:41:17.882371Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:41:21.894699Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:41:26.901874Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:41:30.904209Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:41:34.910710Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:41:36.926574Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:41:40.934654Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:41:43.945725Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:41:45.949149Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:41:46.956360Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:41:47.966151Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:41:49.990381Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:41:53.067078Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:41:56.100059Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:42:00.104170Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:42:04.118279Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:42:05.121134Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:42:10.136668Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:42:14.145067Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:42:19.160269Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:42:24.164038Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:42:25.174244Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:42:30.185544Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:42:33.193928Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:42:38.199112Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:42:39.260023Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:42:43.268574Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:42:46.275247Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:42:50.282563Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:42:53.288633Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:42:55.299405Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:42:59.328022Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:43:00.339582Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:43:05.344508Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:43:07.359987Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:43:08.361930Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:43:09.366016Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:43:14.376299Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:43:17.388493Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:43:19.392323Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:43:20.405416Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:43:22.415467Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:43:23.430752Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:43:28.436433Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:43:30.451868Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:43:32.467084Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:43:37.481973Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:43:38.485516Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:43:41.500027Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:43:43.514898Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:43:47.557529Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:43:49.568826Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:43:54.578685Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:43:58.584731Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:44:02.593816Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:44:05.605933Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:44:09.619201Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:44:14.629722Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:44:15.633351Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:44:18.646626Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:44:20.657111Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:44:23.668003Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:44:25.680298Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:44:30.688640Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:44:35.697106Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:44:39.705183Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:44:42.708412Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:44:47.717214Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:44:48.722429Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:44:51.736781Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:44:53.755253Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:44:54.764749Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:44:57.769806Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:45:00.782363Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:45:05.790382Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:45:06.805577Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:45:11.806877Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:45:15.817118Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:45:16.829008Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:45:20.831554Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:45:25.842779Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:45:30.847708Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:45:33.852624Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:45:36.854690Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:45:40.870271Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:45:44.881404Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:45:49.885769Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:45:53.900765Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:45:55.905403Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:45:57.907709Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:46:02.919899Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:46:05.923541Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:46:09.925397Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:46:12.929235Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:46:13.937364Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:46:18.941133Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:46:22.954301Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:46:23.964702Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:46:28.971206Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:46:33.980407Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:46:34.987490Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:46:39.003659Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:46:40.019062Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:46:42.022722Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:46:47.036211Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:46:48.048704Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:46:52.051231Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:46:55.053010Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:46:56.063738Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:47:00.065447Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:47:03.070055Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:47:05.081198Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:47:06.094893Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:47:07.106156Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:47:10.109743Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:47:13.115080Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:47:15.116132Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:47:17.130434Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:47:22.137152Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:47:27.141386Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:47:32.145668Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:47:33.152920Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:47:38.165625Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:47:43.174791Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:47:46.182808Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:47:48.187788Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:47:49.192239Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:47:54.204634Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:47:57.212181Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:48:01.220444Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:48:06.224026Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:48:11.238958Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:48:16.245664Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:48:17.257285Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:48:18.270535Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:48:19.277468Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:48:21.282067Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:48:22.291752Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:48:27.301896Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:48:32.306272Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:48:34.311900Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:48:35.325073Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:48:37.332060Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:48:41.345297Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:48:45.350453Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:48:47.359082Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:48:51.361174Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:48:54.362774Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:48:55.372135Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:49:00.374949Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:49:03.429651Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:49:07.505691Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:49:11.507847Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:49:15.516237Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:49:20.522999Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:49:22.535333Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:49:24.545331Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:49:28.555329Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:49:31.562693Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:49:34.568708Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:49:39.580553Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:49:44.582730Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:49:49.595438Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:49:51.599507Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:49:52.606853Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:49:55.610612Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:49:58.625338Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:50:01.626990Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:50:03.641021Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:50:06.642977Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:50:07.648795Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:50:12.662233Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:50:14.675348Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:50:17.684506Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:50:19.690670Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:50:24.700036Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:50:27.710703Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:50:28.719101Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:50:29.726344Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:50:31.732427Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:50:32.739048Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:50:35.751001Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:50:39.759598Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:50:40.765766Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:50:43.774995Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:50:44.789457Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:50:45.794364Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:50:49.801623Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:50:50.815082Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:50:51.824149Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:50:56.829096Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:50:59.836423Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:51:04.847930Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:51:05.859216Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:51:09.868597Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:51:14.876284Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:51:19.891769Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:51:21.902335Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:51:23.918484Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:51:24.944006Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:51:28.034227Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:51:29.055587Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:51:30.057162Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:51:32.063719Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:51:35.080048Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:51:38.096366Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:51:41.100200Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:51:46.113556Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:51:51.120450Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:51:53.121676Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:51:55.128025Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:51:59.134913Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:52:02.139479Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:52:04.155291Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:52:06.163042Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:52:08.171185Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:52:11.183088Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:52:14.191829Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:52:16.202328Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:52:19.216494Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:52:20.228063Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:52:25.236218Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:52:26.238415Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:52:29.252264Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:52:30.265395Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:52:33.271767Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:52:37.273940Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:52:40.287995Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:52:42.304009Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:52:46.315478Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:52:50.319312Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:52:52.321480Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:52:57.325773Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:52:59.336447Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:53:04.340082Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:53:09.348516Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:53:11.354078Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:53:12.363711Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:53:14.369741Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:53:18.372996Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:53:23.387047Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:53:26.402147Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:53:27.414532Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:53:29.422115Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:53:33.425258Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:53:36.439208Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:53:37.441673Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:53:41.443118Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:53:43.455603Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:53:44.462460Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:53:48.465472Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:53:52.476058Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:53:57.478092Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:54:01.484491Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:54:16.462841Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:54:18.467308Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:54:22.476145Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:54:23.513633Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:54:28.523630Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:54:32.531921Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:54:37.545055Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:54:38.556520Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:54:39.571403Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:54:41.576543Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:54:46.589786Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:54:47.600333Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:54:52.605598Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:54:53.611854Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:54:58.625604Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:54:59.631657Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:55:03.644184Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:55:06.658656Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:55:10.666658Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:55:11.668269Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:55:16.683479Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:55:18.693032Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:55:20.694072Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:55:23.700067Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:55:25.708021Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:55:27.715672Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:55:28.726270Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:55:29.728465Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:55:31.736511Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:55:33.750515Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:55:35.758605Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:55:36.770712Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:55:37.772958Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:55:42.782775Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:55:46.786212Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:55:51.788667Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:55:55.790128Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:55:56.804173Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:55:57.814456Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:55:59.827864Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:56:04.844183Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:56:05.860955Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:56:08.869860Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:56:09.875386Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:56:14.880215Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:56:15.884520Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:56:18.901902Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T12:56:21.911787Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:56:25.918033Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:56:29.926558Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:56:31.939901Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:56:32.943374Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:56:35.963812Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:56:37.973153Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:56:38.984962Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:56:39.997382Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:56:42.004389Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:56:47.012381Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:56:52.023021Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:56:55.033578Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:56:56.046142Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:56:58.048306Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:56:59.063982Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:57:04.066239Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:57:06.074060Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:57:07.082403Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:57:10.088504Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:57:14.098989Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:57:17.113186Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:57:21.123170Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:57:24.127090Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:57:27.137223Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:57:49.266507Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:57:52.276059Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:57:56.316894Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:57:57.336468Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:58:02.350061Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:58:05.367714Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:58:06.376747Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:58:08.392643Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:58:13.411726Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:58:18.473922Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:58:20.514514Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:58:24.118768Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:58:30.640143Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:58:35.659260Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:58:36.671969Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:58:38.681209Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:58:39.692157Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:58:40.704631Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T12:58:45.706082Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:58:49.714780Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:58:53.721610Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:58:55.729976Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:58:56.740430Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:58:58.749486Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:59:00.753284Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:59:01.755015Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:59:06.761895Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:59:11.766680Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:59:13.783118Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T12:59:15.796325Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:59:16.813072Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:59:21.821544Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T12:59:23.877462Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T12:59:24.979811Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T12:59:28.058203Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T12:59:33.075271Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:59:37.082805Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:59:39.093506Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:59:40.101743Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:59:45.114110Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:59:48.129571Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T12:59:52.146205Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T12:59:55.153496Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:00:00.156654Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:00:03.168896Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:00:07.186144Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:00:08.197734Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:00:13.213538Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:00:15.219476Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:00:18.240831Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:00:20.255970Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:00:21.263949Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:00:25.265382Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:00:27.267736Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:00:31.283245Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:00:36.286269Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:00:40.291914Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:00:42.311941Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:00:44.320097Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:00:49.328524Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:00:54.332554Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:00:55.348071Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:00:57.369478Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:01:01.378354Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:01:04.396975Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:01:05.405548Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:01:10.423008Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:01:15.434583Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:01:16.446467Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:01:21.459048Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:01:26.471582Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:01:29.476456Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:01:30.479093Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:01:35.484035Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:01:37.495028Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:01:42.516159Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:01:46.533860Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:01:49.545886Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:01:50.554535Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:01:53.589765Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:01:54.593275Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:01:58.599409Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:01:59.618153Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:02:00.622011Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:02:04.634360Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:02:05.636879Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:02:06.640969Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:02:09.647836Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:02:14.662334Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:02:18.707448Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:02:20.852944Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:02:24.863231Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:02:26.878355Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:02:28.884831Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:02:30.918342Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:02:33.923919Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:02:34.930561Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:02:36.936450Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:02:37.952640Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:02:38.964089Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:02:47.930661Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:02:50.257033Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:02:52.276194Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:02:57.294644Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:02:59.311674Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:03:00.319493Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:03:01.330829Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:03:05.344532Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:03:07.350542Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:03:10.373571Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:03:12.391357Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:03:13.404906Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:03:18.421326Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:03:21.434050Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:03:26.448375Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:03:28.458273Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:03:29.462649Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:03:31.473975Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:03:34.520706Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:03:38.548911Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:03:41.557042Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:03:45.570893Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:03:47.589052Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:03:48.590664Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:03:53.598504Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:03:55.611127Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:03:56.621749Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:04:00.635133Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:04:05.639160Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:04:08.644896Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:04:13.658061Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:04:17.669097Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:04:18.683240Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:04:21.691036Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:04:25.699311Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:04:27.708985Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:04:30.723814Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:04:35.731506Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:04:36.806036Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:04:38.821610Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:04:39.830289Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:04:41.845059Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:04:46.850008Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:04:51.865980Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:04:55.870554Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:04:58.875117Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:04:59.888932Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:05:02.893313Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:05:06.901257Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:05:08.905040Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:05:09.922287Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:05:14.928348Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:05:19.942126Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:05:22.947574Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:05:24.961308Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:05:26.973857Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:05:27.986167Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:05:29.994638Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:05:35.011423Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:05:36.014270Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:05:41.023780Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:05:46.039227Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:05:47.054571Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:05:51.066236Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:05:52.090355Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:05:56.156159Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:05:58.165209Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:06:01.177575Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:06:02.185136Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:06:05.201064Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:06:07.214141Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:06:10.219303Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:06:12.230377Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:06:13.238625Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:06:15.256141Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:06:20.271645Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:06:24.278980Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:06:27.290734Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:06:28.304646Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:06:30.320435Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:06:33.335297Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:06:34.343438Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:06:35.354595Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:06:39.365160Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:06:40.379204Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:06:42.391951Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:06:43.401197Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:06:46.405155Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:06:47.410401Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:06:48.425055Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:06:53.438094Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:06:57.448292Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:06:58.466946Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:07:00.471818Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:07:04.475325Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:07:08.486668Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:07:17.062473Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:07:19.525282Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:07:21.531806Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:07:24.533805Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:07:27.541524Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:07:29.545205Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:07:32.551333Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:07:36.558964Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:07:41.571653Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:07:43.578582Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:07:44.587649Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:07:48.592404Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:07:52.608569Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:07:55.613739Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:07:57.627774Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:08:02.643059Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:08:06.658475Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:08:08.670886Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:08:10.675399Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:08:13.684644Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:08:15.688263Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:08:18.700807Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:08:20.713922Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:08:25.726418Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:08:30.737072Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:08:31.756392Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:08:32.765517Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:08:36.771220Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:08:41.782321Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:08:45.790236Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:08:48.805535Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:08:50.814464Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:08:54.830402Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:08:57.837159Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:09:01.856644Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:09:03.874161Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:09:07.886484Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:09:10.899710Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:09:14.917179Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:09:16.928424Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:09:18.945022Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:09:19.956366Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:09:24.965240Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:09:28.977956Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:09:33.979340Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:09:37.984564Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:09:41.993431Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:09:44.001623Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:09:45.013595Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:09:50.025468Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:09:55.027084Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:09:56.037011Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:09:58.868785Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:10:00.878553Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:10:04.923478Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:10:08.188625Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:10:11.500660Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:10:13.867658Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:10:18.251795Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:10:22.552476Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:10:29.385600Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:10:31.443506Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:10:35.382028Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:10:40.409401Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:10:44.412606Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:10:49.424809Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:10:52.442248Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:10:57.456609Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:11:00.465466Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:11:03.485937Z", "src_ip": "10.10.10.10", "dest_ip": "192.168.1.10", "proto": "TCP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:11:08.537561Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:11:09.669412Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:11:10.679370Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:11:11.689478Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:11:15.704380Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:11:18.710147Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET CNC ZeuS Bot Command and Control"}}
+{"timestamp": "2025-08-01T13:11:21.727762Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.100", "proto": "TCP", "alert": {"signature": "ET SCAN ICMP Echo Detected"}}
+{"timestamp": "2025-08-01T13:11:22.743837Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.10", "proto": "ICMP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:11:23.755715Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.10", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:11:26.764141Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:11:29.773770Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "TCP", "alert": {"signature": "ET POLICY Suspicious DNS Query"}}
+{"timestamp": "2025-08-01T13:11:34.781609Z", "src_ip": "172.16.1.22", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:11:39.791359Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.100", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:11:42.797325Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.100", "proto": "UDP", "alert": {"signature": "ET DOS DNS Amplification Attack"}}
+{"timestamp": "2025-08-01T13:11:45.811447Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:11:46.826301Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:11:49.829395Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:11:54.836317Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:11:58.842620Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:12:03.860391Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "ICMP", "alert": {"signature": "ET SCAN Suspicious Inbound to MSSQL port 1433"}}
+{"timestamp": "2025-08-01T13:12:04.958437Z", "src_ip": "10.0.0.5", "dest_ip": "192.168.1.250", "proto": "UDP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:12:06.641436Z", "src_ip": "192.168.1.15", "dest_ip": "192.168.1.250", "proto": "ICMP", "alert": {"signature": "ET EXPLOIT Possible Apache Struts RCE"}}
+{"timestamp": "2025-08-01T13:12:11.980587Z", "src_ip": "172.16.0.3", "dest_ip": "192.168.1.50", "proto": "UDP", "alert": {"signature": "ET TROJAN Fake Login Attempt"}}
+{"timestamp": "2025-08-01T13:12:16.007321Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.50", "proto": "TCP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
+{"timestamp": "2025-08-01T13:12:18.022943Z", "src_ip": "192.168.1.10", "dest_ip": "192.168.1.200", "proto": "UDP", "alert": {"signature": "ET MALWARE Possible Malicious Traffic"}}
+{"timestamp": "2025-08-01T13:12:21.072582Z", "src_ip": "192.168.1.99", "dest_ip": "192.168.1.200", "proto": "ICMP", "alert": {"signature": "ET WORM Conficker.A Checkin"}}
